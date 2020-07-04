@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-with-node-express-mongo",
+  "version": "1.0.0",
+  "description": "Rest API with Node, Express &amp; Mongo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singh-vikas-m/Rest-API-with-Node-Express-Mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singh-vikas-m/Rest-API-with-Node-Express-Mongo/issues"
+  },
+  "homepage": "https://github.com/singh-vikas-m/Rest-API-with-Node-Express-Mongo#readme"
+}
